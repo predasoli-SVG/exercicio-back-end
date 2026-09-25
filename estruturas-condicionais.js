@@ -60,7 +60,7 @@ if (imc < 18.5 ) {
 } else if (imc < 25) {
     console.log("peso normal");
 } else if (imc < 30) {
-    console.log("peso normal");
+    console.log("sobrepeso");
 } else {
     console.log("obeso");
 }
